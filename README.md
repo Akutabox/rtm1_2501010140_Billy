@@ -8,7 +8,7 @@
 - Nama: Open-Meteo Forecast API
 - URL: https://api.open-meteo.com/v1/forecast
 - Penerbit: Open-Meteo
-- Lisensi: CC BY 4.0
+- Lisensi: Mengacu pada ketentuan penggunaan Open-Meteo.
 - Atribusi: Weather data by Open-Meteo.com
 
 ### 2. Tanggal dan Jam Akses
@@ -37,7 +37,7 @@ dengan exponential backoff apabila terjadi gangguan.
 ### 4. Batasan Etika
 
 - Sumber data menggunakan Open-Meteo API.
-- Lisensi data CC BY 4.0.
+- Ketentuan penggunaan dan atribusi mengikuti aturan Open-Meteo.
 - Atribusi sumber dicantumkan.
 - Tidak mengambil data pribadi.
 - Pengambilan dilakukan dalam satu request batch.
@@ -69,7 +69,7 @@ pengukuran langsung dari stasiun cuaca.
 1. Instal library:
    pip install pandas requests
 
-2. Buka notebooks/akuisisi_openmeteo.ipynb.
+2. Buka notebooks/Akusisi_OpenMateo.ipynb
 
 3. Isi nama, NIM, dan email kampus.
 
