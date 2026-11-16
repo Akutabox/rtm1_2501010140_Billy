@@ -1,0 +1,32 @@
+{
+    "nama_pengambil": "Billy Maulana Hasan",
+    "nim": "2501010140",
+    "sumber": "Open-Meteo Forecast API",
+    "url": "https://api.open-meteo.com/v1/forecast",
+    "lisensi": "CC BY 4.0",
+    "atribusi": "Weather data by Open-Meteo.com",
+    "waktu_akuisisi": "2026-11-16T18:50:44.094579+08:00",
+    "zona_waktu": "Asia/Makassar",
+    "jumlah_lokasi": 6,
+    "jumlah_record": 1008,
+    "parameter": {
+        "latitude": "-8.7184,-8.6212,-8.5069,-8.8105,-8.6883,-8.248",
+        "longitude": "115.1686,115.0868,115.2625,115.1668,115.2625,115.375",
+        "hourly": "temperature_2m,precipitation,cloud_cover,wind_speed_10m",
+        "timezone": "Asia/Makassar",
+        "forecast_days": 7,
+        "wind_speed_unit": "kmh"
+    },
+    "berkas": [
+        {
+            "nama_berkas": "openmeteo_bali_20261116.json",
+            "ukuran_byte": 39249,
+            "hash_md5": "c37dbc56a5e3afe22ce831d5f177659a"
+        },
+        {
+            "nama_berkas": "openmeteo_bali_20261116.csv",
+            "ukuran_byte": 42895,
+            "hash_md5": "4273119f600c7570a3aca2b2dd52063c"
+        }
+    ]
+}

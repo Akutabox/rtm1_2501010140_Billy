@@ -1,0 +1,10 @@
+﻿No,Pemeriksaan Etika,Status,Bukti
+1,Sumber data publik dan legal,Ya,Open-Meteo API
+2,Data relevan dengan sektor pariwisata,Ya,Enam destinasi wisata Bali
+3,Lisensi sumber diperiksa,Ya,CC BY 4.0
+4,Atribusi sumber dicantumkan,Ya,Weather data by Open-Meteo.com
+5,Tidak mengambil data pribadi,Ya,Data hanya berupa informasi cuaca
+6,Hanya mengambil kolom yang diperlukan,Ya,Empat variabel cuaca
+7,Menggunakan User-Agent yang jelas,Ya,Nama dan email pengambil
+8,Menggunakan timeout dan penanganan error,Ya,Timeout dan retry
+9,Menghormati batas penggunaan API,Ya,Satu request batch dan retry bila gagal
